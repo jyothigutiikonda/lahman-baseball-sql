@@ -1,3 +1,4 @@
+-- Comment Added
 SELECT MIN(year) --1871
 FROM homegames
 
